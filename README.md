@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Heshara Dananjanee
-<h3> 👨🏻‍💻 About Me </h3>
+
 <!--
 **heshara2000/heshara2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
