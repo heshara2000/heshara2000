@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-I'm currently an undergraduate at SLTC Research University.<br>I currently do big data, Data science-based mini projects, and mobile app developments based on ReactNative.<br>How to reach me: hesharadananjanee@gmail.com 
+I'm currently final year an undergraduate at SLTC Research University.<br>I currently do software engineering, big data, ML-based mini projects.<br>How to reach me: hesharadananjanee@gmail.com 
 
 
 ## 🌐 Socials:
