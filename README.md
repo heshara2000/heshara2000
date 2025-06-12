@@ -2,7 +2,23 @@
 
 
 # 💫 About Me:
-I'm currently final year an undergraduate at SLTC Research University.<br>I currently do software engineering, big data, ML-based mini projects.<br>How to reach me: hesharadananjanee@gmail.com 
+## 👋 Hi, I'm [Your Name] – Software Engineer
+
+I'm a Software Engineer passionate about building scalable, intelligent, and user-friendly web applications.
+
+🛠️ Tech Stack & Skills:
+- Frontend: **Next.js**, React, TypeScript
+- Backend: Node.js, RESTful APIs, Databases (SQL/NoSQL)
+- Data: **Big Data Analytics**, Data Pipelines
+- AI: **Gen AI** (Generative AI), LLMs, Prompt Engineering
+
+💼 Currently:
+- Working on real-world projects involving full-stack development and intelligent system design.
+- Exploring ways to integrate Gen AI into practical applications for enhanced user experience.
+
+🌱 Learning:
+- Scalable cloud architectures (AWS, Azure)
+- Advanced data processing and deployment workflows<br>How to reach me: hesharadananjanee@gmail.com 
 
 
 ## 🌐 Socials:
