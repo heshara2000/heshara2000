@@ -1,8 +1,8 @@
-### Hi there 👋 I'm Heshara Dananjanee
+
 
 
 # 💫 About Me:
-## 👋 Hi, I'm [Your Name] – Software Engineer
+## 👋 Hi, I'm Heshara Dananjanee – Software Engineer
 
 I'm a Software Engineer passionate about building scalable, intelligent, and user-friendly web applications.
 
@@ -19,7 +19,6 @@ I'm a Software Engineer passionate about building scalable, intelligent, and use
 🌱 Learning:
 - Scalable cloud architectures (AWS, Azure)
 - Advanced data processing and deployment workflows<br>How to reach me: hesharadananjanee@gmail.com 
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/heshara-dananjanee-760247200) 
